@@ -2,7 +2,7 @@
 - 👀 I’m interested in Graphic design and development of web.
 - 🌱 I’m currently working on about five new learning subjects.learning react
 - 💞️
-- 📫 How to reach me john@mojodigitalsolutions.com.au
+- 📫 How to reach me Att John D
 - johndodd547@gmail.com
 
 <!---
